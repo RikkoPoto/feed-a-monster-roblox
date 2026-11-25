@@ -1,0 +1,4 @@
+@"
+[tools]
+rojo = "rojo-rbx/rojo@7.4.4"
+"@ | Out-File -FilePath "aftman.toml" -Encoding utf8
